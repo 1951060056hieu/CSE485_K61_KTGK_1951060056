@@ -1,2 +1,6 @@
 # CSE485_K61_KTGK_1951060056
 làm bài ktra
+Ngô Minh Hiếu
+MSV 1951060056
+stt 12
+
